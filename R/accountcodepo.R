@@ -5,7 +5,7 @@
 #' @return 无返回值
 #' @export
 #'
-#' @examples
+#' rds_accountcode_po(token = "C0426D23-1927-4314-8736-A74B2EF7A039")
 rds_accountcode_po <- function(token = "C0426D23-1927-4314-8736-A74B2EF7A039") {
 
   sql = "	update A  SET A.F_NLJ_ACCOUNTCODE = D.FNUMBER

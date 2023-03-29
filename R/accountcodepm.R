@@ -6,6 +6,7 @@
 #' @export
 #'
 #' rds_accountcode_pm(token = "C0426D23-1927-4314-8736-A74B2EF7A039")
+
 rds_accountcode_pm <- function(token = "C0426D23-1927-4314-8736-A74B2EF7A039") {
 
   sql = "UPDATE A SET A.F_NLJ_ACCOUNTCODE1 = B.F_NLJ_ACCOUNTCODE

@@ -6,7 +6,7 @@
 #' @export
 #'
 #' @examples
-rds_accountcode_po <- function(token = "5148FAAF-E45C-43D3-9F96-9F943F4F341B") {
+rds_accountcode_po <- function(token = "C0426D23-1927-4314-8736-A74B2EF7A039") {
 
   sql = "	update A  SET A.F_NLJ_ACCOUNTCODE = D.FNUMBER
         	FROM

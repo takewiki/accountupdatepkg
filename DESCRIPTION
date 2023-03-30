@@ -1,7 +1,7 @@
 Package: accountupdatepkg
 Type: Package
 Title: accountcode update
-Version: 1.4.0
+Version: 1.6.0
 Author: xiaotao
 Maintainer: xiaotao <xiaotao@takewiki.com.cn>
 Description: More about what it does (maybe more than one line)
